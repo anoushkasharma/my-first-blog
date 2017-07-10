@@ -1,0 +1,5 @@
+djangogirls
+├── blog
+│   ├── migrations
+│   └── static
+└── mysite
